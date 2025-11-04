@@ -48,6 +48,6 @@ Both charts were created using **Charts.css**, with no JavaScript required.
 ---
 
 ## 🌐 **Live Demo**
-The website is hosted on GitHub Pages: [View Live Site]()  
+The website is hosted on GitHub Pages: [View Live Site](https://beratkrbltt.github.io/Fitlife-Tracker/)  
 
 --
